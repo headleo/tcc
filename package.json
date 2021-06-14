@@ -1,0 +1,27 @@
+{
+  "name": "javascript-vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ETomacheski/Javascript-Vanilla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ETomacheski/Javascript-Vanilla/issues"
+  },
+  "homepage": "https://github.com/ETomacheski/Javascript-Vanilla#readme",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "path": "^0.12.7",
+    "socket.io": "^2.3.0"
+  }
+}
